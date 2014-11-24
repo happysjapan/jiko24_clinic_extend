@@ -1,7 +1,5 @@
 How to install
 
-```
 $ git clone <<clone URL>> ${WORDPRESS_ROOT}/extend
 $ cd ${WORDPRESS_ROOT}/extend
 $ ./install.sh
-```
