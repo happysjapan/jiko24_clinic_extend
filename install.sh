@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORD_PRESS_ROOT=$(dirname $0)
+WORD_PRESS_ROOT=$(dirname $0)/../
 
 # move original file
 cp ${WORD_PRESS_ROOT}/index.php{,.org}
