@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 WORD_PRESS_ROOT=$(dirname $0)/../
 
